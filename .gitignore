@@ -4,3 +4,6 @@
 .Ruserdata
 public
 public/*
+.Rdata
+.httr-oauth
+.DS_Store
